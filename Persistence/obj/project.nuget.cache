@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4ns7ZB9ASyDYIIVlcMEi+XV3kU3vNwwti0dbcMzFaVP2z2Yd8lLOrYaNpX3QNWvKObv8x9qXHvwTrEgD34+MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

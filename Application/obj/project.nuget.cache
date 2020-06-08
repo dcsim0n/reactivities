@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "57eFZ9lMV4+gSYtqm6k/Jrro+u5Ek+8FswLcoyuCL0e1dqjJqHGWyV0e8TSgevAi7oSIqC/iX4LqSwej/6825w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
