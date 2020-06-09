@@ -179,30 +179,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dana\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/dana/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "/Users/dana/Development/reactivities/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\obj\\",
+      "projectPath": "/Users/dana/Development/reactivities/Domain/Domain.csproj",
+      "packagesPath": "/Users/dana/.nuget/packages/",
+      "outputPath": "/Users/dana/Development/reactivities/Domain/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/dana/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -236,7 +230,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }

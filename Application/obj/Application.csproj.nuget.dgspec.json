@@ -1,40 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\Application.csproj": {}
+    "/Users/dana/Development/reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\Application.csproj": {
+    "/Users/dana/Development/reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "/Users/dana/Development/reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Application\\obj\\",
+        "projectPath": "/Users/dana/Development/reactivities/Application/Application.csproj",
+        "packagesPath": "/Users/dana/.nuget/packages/",
+        "outputPath": "/Users/dana/Development/reactivities/Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dana/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj"
+              "/Users/dana/Development/reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/dana/Development/reactivities/Domain/Domain.csproj"
               },
-              "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj"
+              "/Users/dana/Development/reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/dana/Development/reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -65,31 +60,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj": {
+    "/Users/dana/Development/reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "/Users/dana/Development/reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\obj\\",
+        "projectPath": "/Users/dana/Development/reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/dana/.nuget/packages/",
+        "outputPath": "/Users/dana/Development/reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dana/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,38 +113,33 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj": {
+    "/Users/dana/Development/reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "/Users/dana/Development/reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "/Users/dana/Development/reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/dana/.nuget/packages/",
+        "outputPath": "/Users/dana/Development/reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dana/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Dana\\Dev\\react.net-udemy\\Reactivities\\Domain\\Domain.csproj"
+              "/Users/dana/Development/reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/dana/Development/reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -168,6 +153,22 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -185,7 +186,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
