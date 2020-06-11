@@ -22,9 +22,9 @@ namespace Persistence
                 );
         }
 
-    public static implicit operator Microsoft.AspNetCore.Mvc.ControllerContext(DataContext v)
-    {
-      throw new NotImplementedException();
-    }
+    // public static implicit operator Microsoft.AspNetCore.Mvc.ControllerContext(DataContext v)
+    // {
+    //   throw new NotImplementedException();
+    // }
   }
 }
