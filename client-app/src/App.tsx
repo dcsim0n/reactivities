@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
+import axios from 'axios'
 import './App.css';
 import { cars } from './demo';
 import CarItem from './caritem'
+import API from './api';
 
 export default class App extends Component {
 
@@ -11,8 +12,12 @@ export default class App extends Component {
   }
 
   componentWillMount(){
-    this.setState({
-      values: [{id: 1, name: 'Value 101'},{id: 2, name: 'Value 102'} ]
+    axios.get(API.values)
+    .then((response)=>{
+      console.log('response', response)
+      this.setState({
+        values: response.data
+      })
     })
   }
   render() {
