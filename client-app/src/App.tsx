@@ -4,6 +4,8 @@ import './App.css';
 import { cars } from './demo';
 import CarItem from './caritem'
 import API from './api';
+import { Header, Icon, List } from 'semantic-ui-react';
+
 
 export default class App extends Component {
 
@@ -11,7 +13,7 @@ export default class App extends Component {
     values: [],
   }
 
-  componentWillMount(){
+  componentDidMount(){
     axios.get(API.values)
     .then((response)=>{
       console.log('response', response)
@@ -23,10 +25,16 @@ export default class App extends Component {
   render() {
     return (
     <div>
-      <ul>
+      <Header as='h2' >
+        <Icon name='users' />
+        <Header.Content>Reactivities</Header.Content> 
+      </Header>
+      <List>
         {this.state.values.map((val: any) => (
-        <li>{val.name}</li>))} 
-      </ul>  
+          <List.Item key={ val.id }>
+            { val.name }
+          </List.Item>))} 
+      </List>
     </div>
     )
   }
